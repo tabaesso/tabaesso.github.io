@@ -3,9 +3,9 @@
   "username": "tabaesso",
   "name": "Tábata Baesso",
   "userimg": "https://avatars1.githubusercontent.com/u/43206830?v=4",
-  "sort": "updated",
+  "sort": "star",
   "order": "desc",
-  "includeFork": false,
+  "includeFork": true,
   "theme": "dark.css",
   "types": [
    "owner"
